@@ -1,0 +1,21 @@
+List of HTML tags: self closing and "containing"
+see W3 Schools (https://www.w3schools.com/html/default.asp)
+Notice formatting is included here
+- br, !
+- h1, h2, h3, h4, h5, & h6
+- p, a, b or strong, i or em
+- ul, ol; both with li
+- More Specific Attributes for Anchors (<a></a>), img, and URL or Pathways
+  href (URL, Pathway, target, "_blank"
+  img, scr="URL", alt="URL" , Pathway"
+  Note: try using picutre instead of img
+  See: https://www.w3schools.com/tags/tag_picture.asp
+- More advanced Anchor Elements
+  For language: hreflang
+  For downloading: download
+- Extras Tags, in addition to p
+  subscript: sub
+  superscript: sup
+- Extra attributes for Lists
+  <ol type="1|a|A|i|I"> <!Different numbering styles>
+  <ul style="list-style-type:disc|circle|square|none"></ul> <!Intro to CSS>
